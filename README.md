@@ -1,17 +1,38 @@
 # Fashion-House-Boutique-Performance-Analysis 2023-2024
 
-End-to-end sales analytics project using Power BI, including KPIs, business insights, and store performance analysis
+Fashion House boutique is a brick and mortar store in Bangalore launched in April 2023. The store specializes in customised womens wear, rental outfits and outfits for sale and has an in-house production team for the same. As the founder, I understand the end-to-end operations and I'm extracting intricate insights to improve the store's performance in terms of revenue, profits, products and marketing.
+
+# Sections:
+
+- Executive Summary
+- Business Overview
+- Key Metrics and Visuals (with Power BI chart suggestions)
+- Product and Customer Analysis
+- RFM segmentation breakdown
+- Delivery performance metrics
+- Strategic Recommendations
+
+An interactive PowerBI dashborad can be found here.
+
+The DAX and python queries utilised to inspect and prepare the data for the analysis can be found here.
 
 ## Executive Summary
-#### Overview: Leveraging 2,500 sales orders from December 2023 to December 2024 (post-launch period), total revenue was ~£40K (≈₹46.5L) with gross profit ~£13.3K (33% margin). These figures reflect healthy growth for a new store, though further margin optimization is a key opportunity.
-#### Sales Metrics: Average daily sales are ~₹11.9K (≈£102), with the highest single-day revenue ~₹49.3K. Strong sales are concentrated in late-year months (Nov–Dec), aligning with holiday and wedding seasons.
-#### Top Categories: Blouses, dresses, and kurti sets collectively contribute ~56% of revenue, indicating they are core offerings. However, these high-volume items have lower profit margins, highlighting the need for a balanced product mix.
-#### Acquisition Channels: About 46% of customers are store walk-ins and ~46% come via Google Maps, illustrating effective local visibility and Google Business presence. Only ~8% arrive through referrals, suggesting room to grow word-of-mouth marketing.
-#### Customer Behavior: 18% of customers made repeat purchases (8% with >2 orders, 1.5% with >5). High-value orders (>₹5K) represent ~7% of sales. These segments (repeat buyers and big spenders) should be cultivated through targeted outreach.
+
+<B>Overview:</B> Leveraging 2,500 sales orders from December 2023 to December 2024 (post-launch period), total revenue was ~£40K (≈₹46.5L) with gross profit ~£13.3K (33% margin). These figures reflect healthy growth for a new store, though further margin optimization is a key opportunity.
+
+<B> Sales Metrics:</B> Average daily sales are ~₹11.9K (≈£102), with the highest single-day revenue ~₹49.3K. Strong sales are concentrated in late-year months (Nov–Dec), aligning with holiday and wedding seasons.
+
+<B> Top Categories:</B> Blouses, dresses, and kurti sets collectively contribute ~56% of revenue, indicating they are core offerings. However, these high-volume items have lower profit margins, highlighting the need for a balanced product mix.
+
+<B> Acquisition Channels:</B> About 46% of customers are store walk-ins and ~46% come via Google Maps, illustrating effective local visibility and Google Business presence. Only ~8% arrive through referrals, suggesting room to grow word-of-mouth marketing.
+
+<B> Customer Behavior:</B> 18% of customers made repeat purchases (8% with >2 orders, 1.5% with >5). High-value orders (>₹5K) represent ~7% of sales. These segments (repeat buyers and big spenders) should be cultivated through targeted outreach.
 
 ## Sales Trends and Seasonality
  
 #### Monthly revenue exhibits clear seasonality. Sales dip in spring (Mar–Apr ≈ ₹2.52L per month) and climb steadily toward year-end (Nov ≈ ₹5.18L, Dec ≈ ₹8.42L). This trend likely reflects local wedding and festival calendars. The accelerating sales growth in Q4 2024 indicates strong momentum.
+
+<img width="935" height="368" alt="Screenshot 2025-07-31 014819" src="https://github.com/user-attachments/assets/6d5f1407-0cc6-4b09-b061-094fadce6bdd" />
 
 #### Insight: The Nov–Dec surge suggests ramping up inventory and marketing before peak season. Introduce promotions in slower months (Mar–Apr) to smooth cash flow and engage customers year-round.
 
@@ -30,6 +51,8 @@ End-to-end sales analytics project using Power BI, including KPIs, business insi
 # Delivery and Fulfillment
 
 #### Delivery performance is an area for improvement. The average fulfillment time is 6 days; only 18% of orders are delivered in under 4 days, and just 1% within 24 hours. Improving turnaround can enhance customer satisfaction and repeat business.
+
+<img width="400" height="600" alt="Screenshot 2025-07-30 190751" src="https://github.com/user-attachments/assets/069b53e8-6524-496a-b9d4-a7b03ac33b77" />
 
 #### Insight: Map the order-to-delivery process in Power BI to identify bottlenecks (production, packing, shipping). Introduce express shipping options or in-house expedited workflows for urgent orders. Set clear delivery expectations at checkout to improve satisfaction.
 
