@@ -1,4 +1,4 @@
-# Fashion-House-Boutique-Performance-Analysis 2023-2024
+ # Fashion-House-Boutique-Performance-Analysis 2023-2024
 
 Fashion House boutique is a brick and mortar store in Bangalore launched in April 2023. The store specializes in customised womens wear, rental outfits and outfits for sale and has an in-house production team for the same. As the founder, I understand the end-to-end operations and I'm extracting intricate insights to improve the store's performance in terms of revenue, profits, products and marketing.
 
@@ -55,7 +55,15 @@ The DAX and python queries utilised to inspect and prepare the data for the anal
 
 #### Insight: Strengthen digital marketing (SEO, Google Ads, social media) since Google drives nearly half of customers. Launch a referral program to boost word-of-mouth. Segment loyalty efforts (email/WhatsApp campaigns) for repeat and high-value customers, leveraging the RFM segments.
 
-## RFM Customer Segmentation
+# RFM Customer Segmentation
+
+- "Champions" and "loyal customers", which are the frequent and high vaue customers make up ~39.4% of customers.
+
+- 15.5 % are "At Risk" customers, the ones who have purchased more than once but have not made any purchase recently nor are high spenders are quite significant in size and need targeted retention strategies.
+
+- Only ~7% are "Big Spenders" that have high monetary value but may not purchase frequently. This could be occasion specific spending but if targeted could be frequent buyers.
+
+- Others and Recent Customers may be newer or inconsistent — ideal for nurturing campaigns.
 
 # Delivery and Fulfillment
 
