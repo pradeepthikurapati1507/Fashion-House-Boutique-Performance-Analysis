@@ -34,7 +34,7 @@ The DAX and python queries utilised to inspect and prepare the data for the anal
 
 - Sales dip in spring (Mar–Apr ≈ ₹2.52L per month) and climb steadily toward year-end (Nov ≈ ₹5.18L, Dec ≈ ₹8.42L). This trend likely reflects local wedding and festival calendars. The accelerating sales growth in Q4 2024 indicates strong momentum.
 
-<img width="935" height="368" alt="Screenshot 2025-07-31 014819" src="https://github.com/user-attachments/assets/6d5f1407-0cc6-4b09-b061-094fadce6bdd" />
+[<img width="935" height="368" alt="Screenshot 2025-07-31 014819" src="https://github.com/user-attachments/assets/6d5f1407-0cc6-4b09-b061-094fadce6bdd" />](https://github.com/pradeepthikurapati1507/Fashion-House-Boutique-Performance-Analysis/blob/custom/Screenshot%202025-08-05%20003517.png)
 
 #### Insight: The Nov–Dec surge suggests ramping up inventory and marketing before peak season. Introduce promotions in slower months (Mar–Apr) to smooth cash flow and engage customers year-round.
 
